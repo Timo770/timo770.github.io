@@ -1,0 +1,11 @@
+p {
+    color: yellow;
+    font-size: 28px;
+}
+body {
+    background-color: darkslateblue;
+}
+
+#special {
+    color: white;
+}
