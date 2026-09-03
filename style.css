@@ -1,11 +1,9 @@
-p {
-    color: yellow;
-    font-size: 28px;
+body{
+    background-color: beige;
 }
-body {
-    background-color: darkslateblue;
+p{
+    color: blue;
 }
-
-#special {
-    color: white;
+h2 {
+    color: red;
 }
