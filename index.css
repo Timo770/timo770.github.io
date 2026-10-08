@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+
+body {
+    text-align: center;
+    background-color: darkgoldenrod;
+    font-family: sans-serif;
+
+}
+div{
+    text-align: center;
+}
